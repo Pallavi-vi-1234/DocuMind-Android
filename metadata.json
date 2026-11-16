@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind",
+  "description": "DocuMind – AI Document Q&A Assistant. Upload PDF documents, explore conversation history, ask questions, and inspect source page numbers in a clean white-and-blue interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

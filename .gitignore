@@ -1,0 +1,44 @@
+# Gradle & Build Outputs
+.gradle/
+**/build/
+build/
+.kotlin/
+.cxx/
+.externalNativeBuild/
+captures/
+.build-outputs/
+
+# Android Binaries & Signing Credentials
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.zip
+*.jks
+*.keystore
+debug.keystore
+debug.keystore.base64
+keystore.properties
+key.properties
+
+# Local Environment, API Keys & Firebase Configs
+local.properties
+.env
+.env.*
+!.env.example
+google-services.json
+**/google-services.json
+supabase/.env
+supabase/.temp/
+
+# IDE & Editor Files
+*.iml
+.idea/
+.vscode/
+
+# Logs, Heap Dumps & OS Artifacts
+*.log
+*.hprof
+.DS_Store
+Thumbs.db

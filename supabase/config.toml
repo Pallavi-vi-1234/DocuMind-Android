@@ -1,0 +1,6 @@
+# Supabase project configuration for DocuMind
+# Disable JWT verification on the browser-facing password recovery callback page
+# so users clicking the email link in any browser can load the Set New Password UI.
+
+[functions.reset-password]
+verify_jwt = false
