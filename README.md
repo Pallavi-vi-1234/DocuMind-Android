@@ -154,10 +154,9 @@ To host your own browser-compatible password recovery callback:
 
 ---
 
+
 ## Screenshots
 
-> Add captured emulator/device screenshots under `docs/screenshots/` to populate the preview gallery below.
-
-| Sign In & Auth | Document Upload & Library | Grounded Q&A & Citations | Citation Inspector |
-| :---: | :---: | :---: | :---: |
-| ![Sign In](docs/screenshots/sign_in.png) | ![Library](docs/screenshots/library.png) | ![Q&A Chat](docs/screenshots/chat_qa.png) | ![Citations](docs/screenshots/citation_inspector.png) |
+| Sign In | Document Library | PDF Upload | Q&A Chat |
+|---|---|---|---|
+| ![Sign In](docs/screenshots/sign_in.png) | ![Library](docs/screenshots/library.png) | ![PDF Upload](docs/screenshots/upload.png) | ![Q&A Chat](docs/screenshots/chat_qa.png) |
